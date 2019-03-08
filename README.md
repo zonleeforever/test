@@ -1,4 +1,4 @@
-# zhihuishu
+# 仿智慧树网站的vue练习
 
 > A Vue.js project
 
